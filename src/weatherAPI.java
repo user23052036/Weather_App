@@ -8,7 +8,7 @@ import java.util.Set;
 import org.json.JSONArray;
 import org.json.JSONObject;  //package org.json
 
-public class WeatherAPI 
+public class weatherAPI 
 {
     static int temperature,wind_speed,humidity;
     static String weather_descriptions="";

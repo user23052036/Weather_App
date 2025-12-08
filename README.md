@@ -4,6 +4,10 @@
   <b>Weather_App</b> is a modern Java desktop application that delivers real-time weather information for any city worldwide. With a clean and intuitive GUI, users can easily search for a city and instantly view its current weather, including temperature, humidity, wind speed, and weather conditions-all powered by live data from a public weather API.
 </p>
 
+## 🖼 Screenshot
+![Weather App UI](assets/screenshot.png)
+
+
 <h2>🚀 Features</h2>
 <ul>
   <li>Instant weather search by city name</li>
